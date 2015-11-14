@@ -1,2 +1,114 @@
-# cv
-Public CV
+= Andrei Holub / Senior Java Developer
+:Email:		andrei.holub+github@gmail.com
+:Phone:		XXX-XXX-XXXX
+
+
+== Personal Data
+
+* phone:				{phone}
+* e-mail/jabber:		{email}
+* locations:			New York City, Central NJ
+* resident status:		green card
+
+
+== Education
+
+*Grodno State Yanka Kupala University* +
+09.1996 - 05.2001
+
+BS Degree in Computer Science, Mathematics, Engineering
+
+
+== Experience
+
+. *Senior R&D Engineer* at http://ipsoft.com/[IPSoft] / http://ipsoft.com/ +
+  May 2013 - ...
+
+  > "Amelia" robotic automation system development. The application imitates human, have potential to learning and trying to replace level 1 technical support
+  > Components decoupling. Optimization of various parts of application: Hibernate, UI, "slow" core parts of code.
+  > Development process improvements. CI integration. Replacing Integration testing with Unit testing
+
+  Environment: Spring, Cassandra, MySQL, Titan, Hibernate, Hazelcast, ExtJS, Three.js, NLP libs, JUnit, Mockito, Spring Boot, Java Mission Control, JProfiler, Jetty, Jenkins CI
+
+. *Lead Java Developer* at http://www.louiseblouinmedia.com/[Louise Blouin Media] / http://www.louiseblouinmedia.com/ +
+  July 2012 – May 2013
+
+  > Design and development application for merging data from different DB sources
+  > Data mining infrastructure support: creation/upgrade converters and crawlers
+
+  Environment: JSF, Twitter Bootstrap, Spring, Hibernate, Hibernate Search, Apache Lucene, Sphinx, MySQL, PostgreSQL, Glassfish, JMeter, Jenkins CI
+
+. *Lead Software Engineer* at http://www.itteco.com/[Itteco] / http://www.itteco.com/ +
+  September 2010 – April 2012 (1 year 8 months)
+
+  > Development and support a pa yment gateway application with various levels of client’s transactions processing integration (SOAP or XML, HTTPS Request/Response based interfaces, redirecting to the shopping interface on the server).
+  > User transactions verification/reporting: settlement, reconciliation, clearing, statistics, analytics
+  > Application integrity validation and monitoring using Zabbix and custom scripts on Expect/Tcl > Porting clustered collocated application to distributed architecture
+  > Porting application from Glassfish to Websphere AS
+
+  Environment: JSF, MyBatis, DB2, Glassfish, Websphere AS, Git, JQuery, Expect/Tcl, Zabbix, Scrum
+
+. *Senior Software Engineer, Software Team Lead* at http://www.azati.com/[Azati Corporation] / http://www.azati.com/ +
+  November 2008 – September 2010 (1 year 11 months)
+
+  > Architecting and developing an interactive (AJAX) in surance form with continuous integration. Prepare collected data for feature processing by another development team.
+  > Leading a team of eight developers comprised of Java Developers, UI Developers, and QA Engineers
+  > Development an on­demand hosting system (PaaS), which may be used to instantly launch and continuously maintain pre­configured web­based applications in a Amazon EC2 cloud computing environment
+  > Custom portlets development for Liferay Portal
+
+  Environment: JSF (Icefaces, Richfaces), Spring, Hibernate, Drools, SDO, JBoss AS, Portlets, Liferay, Ruby on Rails, Subversion, Amazon WS, EC2, S3, Redmine, JUnit, Hudson CI, Agile
+
+. *Software Engineer* at http://www.corratech.com/[Corra Technology INC] / http://www.corratech.com/ +
+  May 2004 – November 2008 (4 years 7 months)
+
+  > Offline client development for CentricCRM application. Supported databases extending by Apache Derby, MySQL, DB2, Daffodil DB/One$DB
+  > End­user customizations of open source CRM/ERP (SugarCRM, Openbravo) systems: custom modules development; reports; adjustment to user’s business process
+  > "Linux" internal trainings lecturing
+  > Developing web crawl application, which collect data about specific group of people > Support existing ASP, Perl applications
+
+  Environment: ASP, C#, IIS, PHP, MySQL, Java, PostgreSQL, Apache Derby, DB2, Daffodil DB/One$DB, Oracle 9i, PL/SQL Jasper Reports, Perl, Atlassian Confluence, RUP
+
+. *System Administrator* at Teletron +
+  January 2004 – April 2004 (4 months)
+
+  > Local network (50+ computers) design, scaling, and administration
+  > Equipment purchase
+
+  Environment: Windows 2000 Server, RH Linux
+
+. *Software Engineer, Lecturer* at http://www.grsu.by/[Grodno State University] / http://www.grsu.by/ +
+  August 2001 – July 2003 (2 years)
+
+  > Developing rich client for time-table manipulation
+  > Business trips module development for accounting department on FoxPro
+  > Teaching courses of C++, RDBMS, Prolog
+
+  Environment: Borland Delphi, FoxPro, Visual Prolog, Borland C++
+
+
+== Courses and Certifications
+
+*Functional Programming Principles in Scala* +
+Coursera / École Polytechnique Fédérale de Lausanne
+
+*Principles of Reactive Programming* +
+Coursera / École Polytechnique Fédérale de Lausanne
+
+*R Programming* +
+Coursera / Johns Hopkins University
+
+*Getting and Cleaning Data* +
+Coursera / Johns Hopkins University
+
+
+== Language Proficiency
+
+* *English* - Professional working proficiency
+* *Russian, Belarusian* - Native or bilingual proficiency
+* *Polish* - Limited working proficiency
+
+
+== Other
+
+* *interests*: software development, functional programming, music
+* *public profile(s)*: http://www.linkedin.com/in/andreiholub[LinkedIn] / http://www.linkedin.com/in/andreiholub
