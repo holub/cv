@@ -88,17 +88,26 @@ BS Degree in Computer Science, Mathematics, Engineering
 
 == Courses and Certifications
 
+:frame: none
+:grid: none
+
+[cols="2"]
+|==================================================
+|
 *Functional Programming Principles in Scala* +
 Coursera / École Polytechnique Fédérale de Lausanne
 
 *Principles of Reactive Programming* +
 Coursera / École Polytechnique Fédérale de Lausanne
 
+|
 *R Programming* +
 Coursera / Johns Hopkins University
 
 *Getting and Cleaning Data* +
 Coursera / Johns Hopkins University
+
+|==================================================
 
 
 == Language Proficiency
