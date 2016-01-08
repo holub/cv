@@ -22,7 +22,7 @@ BS Degree in Computer Science, Mathematics, Engineering
 == Experience
 
 . *Senior R&D Engineer* at http://ipsoft.com/[IPSoft] / http://ipsoft.com/ +
-  May 2013 - ...
+  May 2013 - ... | New York, USA
 
   > "Amelia" robotic automation system development. The application imitates human, have potential to learning and trying to replace level 1 technical support
   > Components decoupling. Optimization of various parts of application: Hibernate, UI, "slow" core parts of code.
@@ -31,15 +31,15 @@ BS Degree in Computer Science, Mathematics, Engineering
   Environment: Spring, Cassandra, MySQL, Titan, Hibernate, Hazelcast, ExtJS, Three.js, NLP libs, JUnit, Mockito, Spring Boot, Java Mission Control, JProfiler, Jetty, Jenkins CI
 
 . *Lead Java Developer* at http://www.louiseblouinmedia.com/[Louise Blouin Media] / http://www.louiseblouinmedia.com/ +
-  July 2012 – May 2013
+  July 2012 – May 2013 | New York, USA
 
   > Design and development application for merging data from different DB sources
   > Data mining infrastructure support: creation/upgrade converters and crawlers
 
   Environment: JSF, Twitter Bootstrap, Spring, Hibernate, Hibernate Search, Apache Lucene, Sphinx, MySQL, PostgreSQL, Glassfish, JMeter, Jenkins CI
 
-. *Lead Software Engineer* at http://www.itteco.com/[Itteco] / http://www.itteco.com/ +
-  September 2010 – April 2012 (1 year 8 months)
+. *Lead Software Engineer* at Itteco +
+  September 2010 – June 2012 | Hrodna, Belarus
 
   > Development and support a pa yment gateway application with various levels of client’s transactions processing integration (SOAP or XML, HTTPS Request/Response based interfaces, redirecting to the shopping interface on the server).
   > User transactions verification/reporting: settlement, reconciliation, clearing, statistics, analytics
@@ -49,7 +49,7 @@ BS Degree in Computer Science, Mathematics, Engineering
   Environment: JSF, MyBatis, DB2, Glassfish, Websphere AS, Git, JQuery, Expect/Tcl, Zabbix, Scrum
 
 . *Senior Software Engineer, Software Team Lead* at http://www.azati.com/[Azati Corporation] / http://www.azati.com/ +
-  November 2008 – September 2010 (1 year 11 months)
+  November 2008 – September 2010 | Hrodna, Belarus
 
   > Architecting and developing an interactive (AJAX) in surance form with continuous integration. Prepare collected data for feature processing by another development team.
   > Leading a team of eight developers comprised of Java Developers, UI Developers, and QA Engineers
@@ -59,7 +59,7 @@ BS Degree in Computer Science, Mathematics, Engineering
   Environment: JSF (Icefaces, Richfaces), Spring, Hibernate, Drools, SDO, JBoss AS, Portlets, Liferay, Ruby on Rails, Subversion, Amazon WS, EC2, S3, Redmine, JUnit, Hudson CI, Agile
 
 . *Software Engineer* at http://www.corratech.com/[Corra Technology INC] / http://www.corratech.com/ +
-  May 2004 – November 2008 (4 years 7 months)
+  May 2004 – November 2008 | Hrodna, Belarus
 
   > Offline client development for CentricCRM application. Supported databases extending by Apache Derby, MySQL, DB2, Daffodil DB/One$DB
   > End­user customizations of open source CRM/ERP (SugarCRM, Openbravo) systems: custom modules development; reports; adjustment to user’s business process
@@ -69,7 +69,7 @@ BS Degree in Computer Science, Mathematics, Engineering
   Environment: ASP, C#, IIS, PHP, MySQL, Java, PostgreSQL, Apache Derby, DB2, Daffodil DB/One$DB, Oracle 9i, PL/SQL Jasper Reports, Perl, Atlassian Confluence, RUP
 
 . *System Administrator* at Teletron +
-  January 2004 – April 2004 (4 months)
+  July 2003 – April 2004 | Moskow, Russia
 
   > Local network (50+ computers) design, scaling, and administration
   > Equipment purchase
@@ -77,7 +77,7 @@ BS Degree in Computer Science, Mathematics, Engineering
   Environment: Windows 2000 Server, RH Linux
 
 . *Software Engineer, Lecturer* at http://www.grsu.by/[Grodno State University] / http://www.grsu.by/ +
-  August 2001 – July 2003 (2 years)
+  August 2001 – July 2003 | Hrodna, Belarus
 
   > Developing rich client for time-table manipulation
   > Business trips module development for accounting department on FoxPro
